@@ -2,13 +2,13 @@
     "homepage": "https://www.gnu.org/software/emacs/",
     "license": "GPL-3.0-or-later",
     "description": "An extensible, customizable, free/libre text editor.",
-    "version": "27.0.50.2019-09-18",
+    "version": "27.1.0.2020-08-12",
     "architecture": {
         "64bit": {
-            "url": "https://alpha.gnu.org/gnu/emacs/pretest/windows/emacs-27/emacs-27.0.50-snapshot-2019-09-18-x86_64.zip"
+            "url": "https://alpha.gnu.org/gnu/emacs/pretest/windows/emacs-27/emacs-27.1-x86_64.zip"
         },
         "32bit": {
-            "url": "https://alpha.gnu.org/gnu/emacs/pretest/windows/emacs-27/emacs-27.0.50-snapshot-2019-09-18-i686.zip"
+            "url": "https://alpha.gnu.org/gnu/emacs/pretest/windows/emacs-27/emacs-27.1-i686.zip"
         }
     },
     "bin": [
